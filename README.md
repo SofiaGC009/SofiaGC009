@@ -1,8 +1,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SofiaGC009.SofiaGC009)<br>
 
-<h1 align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Sofia+Garcia+;Welcome+to+my+profile!+:sparkles:)](https://git.io/typing-svg)
-</h1>
 <!--
 **SofiaGC009/SofiaGC009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
