@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l)](http://www.codeit.kr/)" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo1Nmd1Ym1qdXlsMnk3Nmo3c3M5dzVuZW5qbnZ4c2E3NTI3eTJhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="100"/>
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SofiaGC009.SofiaGC009)
