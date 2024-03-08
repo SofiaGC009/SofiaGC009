@@ -14,6 +14,13 @@
 - 🌱 I’m currently learning **Python, React...**
 </div>
 
+<div align="center">
+  <a href="asofiagarcia00@gmail.com">
+<img src="[{BadgeURLHere}](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)" />
+  </a>
+</div>
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlybm5iODB6d2NkamxwM2I5MHc3N2VybjQ0bXlheWVpM3drMjRsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fdt4RGJKIi1ZbIhPvn/giphy.gif" width="100"/>
 
 <div id="codign-time" align="center">
