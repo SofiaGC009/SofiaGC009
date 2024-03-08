@@ -25,7 +25,7 @@
 
 <br>
 
-<h3 align="center" color=AA21A6>Languages - Frameworks - Tools</h3>
+<h3 align="center" fontcolor=AA21A6>Languages - Frameworks - Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
