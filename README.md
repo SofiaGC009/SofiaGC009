@@ -1,6 +1,10 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SofiaGC009.SofiaGC009)<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Sofia+Garcia+;Welcome+to+my+profile!+✨)](https://git.io/typing-svg)
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!;I'm+Sofia+Garcia+;Welcome+to+my+profile!+✨;"/>
+  </h1>
 <!--
 **SofiaGC009/SofiaGC009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
