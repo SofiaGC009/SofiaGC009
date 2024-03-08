@@ -1,5 +1,6 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
 ### Hi there 👋
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
+
 <!--
 **SofiaGC009/SofiaGC009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
