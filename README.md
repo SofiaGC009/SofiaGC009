@@ -6,10 +6,13 @@
 <br>
 
 <h1 align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlybm5iODB6d2NkamxwM2I5MHc3N2VybjQ0bXlheWVpM3drMjRsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fdt4RGJKIi1ZbIhPvn/giphy.gif" width="150"/>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&weight=700&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=AA21A6&lines=Hi+there!;I'm+Sofia+Garcia+;Welcome+to+my+profile!;"/>
   </h1>
 
 <br>
+
+
 
 <!--
 **SofiaGC009/SofiaGC009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
