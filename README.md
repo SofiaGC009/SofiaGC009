@@ -2,7 +2,6 @@
 <div id="codign-time" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhuOWEyMnhyODZhaDA3MDRtYTJ5dGg2dDNtM2NnbmI1ZmZqdDJ4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="150"/>
 </div>
-<br>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&weight=700&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=AA21A6&lines=Hi+there!;I'm+Sofia+Garcia+;Welcome+to+my+profile!;"/>
   </h1>
