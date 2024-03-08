@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5paTk1NHl6OHgzMWlqaTRlb2k5cTRvMWo2enM1a2hiODNraWZxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0kUT43S9OMN01u6mRG/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5paTk1NHl6OHgzMWlqaTRlb2k5cTRvMWo2enM1a2hiODNraWZxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0kUT43S9OMN01u6mRG/giphy.gif" width="250"/>
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SofiaGC009.SofiaGC009)
