@@ -14,7 +14,7 @@
 <div align="center">
 - 🔭 I’m currently working on **idk**
   
-- 🌱 I’m currently learning **Python, React, Node.js**
+- 🌱 I’m currently learning **Python, React...**
 </div>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlybm5iODB6d2NkamxwM2I5MHc3N2VybjQ0bXlheWVpM3drMjRsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fdt4RGJKIi1ZbIhPvn/giphy.gif" width="100"/>
