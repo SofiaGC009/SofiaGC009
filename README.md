@@ -10,6 +10,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!;I'm+Sofia+Garcia+;Welcome+to+my+profile!+✨;"/>
   </h1>
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=35&pause=1000&color=AA21A6&vCenter=true&random=false&width=450&height=75&lines=Hi+there!;Im+Sofia+Garcia;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
 <br>
 
 <!--
