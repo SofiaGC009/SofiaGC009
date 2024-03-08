@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="mailto:asofiagarcia00@gmail.com" target="_blank_">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank_" />
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank_" />
   </a>
   <a href="https://in.linkedin.com/in/sofia-garcia-987175216" target="_blank_">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank_" />
