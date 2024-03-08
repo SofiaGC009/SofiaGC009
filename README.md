@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,mysql,octave,r,vscode,visualstudio,windows,html,css,git,azure" />
+    <img src="https://skillicons.dev/icons?i=java,php,mysql,octave,r,vscode,visualstudio,windows,html,css,git,azure&perline=6" />
   </a>
 </p>
 
@@ -35,6 +35,6 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlybm5iODB6d2NkamxwM2I5MHc3N2VybjQ0bXlheWVpM3drMjRsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fdt4RGJKIi1ZbIhPvn/giphy.gif" width="100"/>
 
-<div id="codign-time" align="center">
+<div id="end-of-readme" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5paTk1NHl6OHgzMWlqaTRlb2k5cTRvMWo2enM1a2hiODNraWZxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0kUT43S9OMN01u6mRG/giphy.gif" width="150"/>
 </div>
