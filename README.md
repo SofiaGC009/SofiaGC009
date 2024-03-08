@@ -13,6 +13,7 @@
 
 <div align="center">
 - 🔭 I’m currently working on **idk**
+  
 - 🌱 I’m currently learning **Python, React, Node.js**
 </div>
 
