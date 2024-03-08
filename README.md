@@ -15,17 +15,19 @@
 </div>
 
 <div align="center">
-  <a href="mailto:asofiagarcia00@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&width=100" />
+  <a href="mailto:asofiagarcia00@gmail.com" target="_blank_">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank_" />
   </a>
-  <a href="https://www.linkedin.com/in/sofia-garcia-987175216/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-    badge&logo=linkedin&logoColor=white&width=100" />
+  <a href="https://in.linkedin.com/in/sofia-garcia-987175216" target="_blank_">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank_" />
   </a>
 </div>
 
 <br>
 
-<h3 align="center">Languages - Frameworks - Tools</h3>
+<h3 align="center">
+  Languages - Frameworks - Tools
+</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
