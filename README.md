@@ -12,6 +12,8 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=35&pause=1000&color=AA21A6&vCenter=true&random=false&width=450&height=75&lines=Hi+there!;Im+Sofia+Garcia;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=35&duration=4000&pause=400&color=AA21A6&center=true&vCenter=true&random=false&width=450&height=75&lines=Hi+there!;I'm+Sofia+Garcia;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+
 <br>
 
 <!--
