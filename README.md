@@ -1,4 +1,4 @@
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SofiaGC009.SofiaGC009)
 ### Hi there 👋
 
 <!--
