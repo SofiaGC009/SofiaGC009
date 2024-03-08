@@ -19,8 +19,14 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sofia-garcia-987175216/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-    badge&logo=linkedin&logoColor=white" />
   </a>
+</div>
+
+<h3>Languages - Frameworks - Tools</h3>
+
+<div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlybm5iODB6d2NkamxwM2I5MHc3N2VybjQ0bXlheWVpM3drMjRsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fdt4RGJKIi1ZbIhPvn/giphy.gif" width="100"/>
