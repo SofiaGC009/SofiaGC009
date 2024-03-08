@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-- 🔭 I’m currently working on **idk**
+- 🔭 I’m currently working on **a web app**
   
 - 🌱 I’m currently learning **Python, React...**
 </div>
