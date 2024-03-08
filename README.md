@@ -23,6 +23,8 @@
   </a>
 </div>
 
+<br>
+
 <h3 align="center">Languages - Frameworks - Tools</h3>
 
 <p align="center">
