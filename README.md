@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=SofiaGC009.visitor-badge&left_text=MyPageVisitors)
+<img align = "right" src = "https://visitor-badge.laobi.ice/badge?page?id=SofiaGC009.SofiaGC009"/>
 ### Hi there 👋
 
 <!--
