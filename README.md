@@ -11,7 +11,7 @@
 <div align="center">
 🔭 I’m currently working on **A web app**
   
-🌱 I’m currently learning **Python, Javascript, React, Node**
+🌱 I’m currently learning **Python with Tensorflow**
 </div>
 
 <br>
@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,mysql,octave,r,vscode,visualstudio,windows,html,css,git,azure&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,php,mysql,octave,r,vscode,visualstudio,windows,html,css,git,azure,blender,bootstrap,js,jquery,netlify,nodejs,npm,react,unity,&perline=6" />
   </a>
 </p>
 
