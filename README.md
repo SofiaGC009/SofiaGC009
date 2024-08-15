@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,azure,netlify,npmunity,blender,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,azure,netlify,npm,unity,blender,&perline=6" />
   </a>
 </p>
 
