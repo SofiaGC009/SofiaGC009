@@ -70,7 +70,7 @@
 ---
 
 <div id="end-of-readme" align="center">
-<img align='left' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlybm5iODB6d2NkamxwM2I5MHc3N2VybjQ0bXlheWVpM3drMjRsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fdt4RGJKIi1ZbIhPvn/giphy.gif" width="70"> <em><b>"Technology, like art, is a soaring exercise of the human imagination." — Daniel Bell</b></em>
+<img align='left' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlybm5iODB6d2NkamxwM2I5MHc3N2VybjQ0bXlheWVpM3drMjRsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fdt4RGJKIi1ZbIhPvn/giphy.gif" width="50"> <em><b>"Technology, like art, is a soaring exercise of the human imagination." — Daniel Bell</b></em>
 </div>
 
 ---
