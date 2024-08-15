@@ -7,7 +7,7 @@
   </h1>
 
   <p>
-    I’m a 24-year-old student currently in my final semester of college, pursuing a degree in Computational Systems Engineering. I’m passionate about learning and constantly seek out new knowledge to advance my career. Whether it's through taking courses, researching emerging technologies, or exploring innovative development techniques, I’m dedicated to taking my skills to the next level. I thrive on discovering new challenges and enjoy applying my growing expertise to real-world problems.
+    I'm a 24-year-old in my final semester of Computational Systems Engineering. I love diving into new technologies, taking courses, and exploring innovative ideas to level up my skills. Always excited to learn and tackle new challenges!.
   </p>
 
 <br>
