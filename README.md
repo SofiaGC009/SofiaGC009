@@ -31,40 +31,36 @@
 
 <br>
 
-<h3 align="center">
+<h4 align="center">
   Languages
-</h3>
-
+</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,js,r,octave,&perline=6" />
   </a>
 </p>
 
-<h3 align="center">
+<h4 align="center">
   Frameworks & Libraries
-</h3>
-
+</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,jquery,nodejs,react,&perline=6" />
   </a>
 </p>
 
-<h3 align="center">
+<h4 align="center">
   Tools & Platforms
-</h3>
-
+</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,azure,netlify,npm,unity,blender,&perline=6" />
   </a>
 </p>
 
-<h3 align="center">
+<h4 align="center">
   Operating System
-</h3>
-
+</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,&perline=6" />
