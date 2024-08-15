@@ -71,7 +71,7 @@
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlybm5iODB6d2NkamxwM2I5MHc3N2VybjQ0bXlheWVpM3drMjRsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fdt4RGJKIi1ZbIhPvn/giphy.gif" width="100" style="vertical-align: middle;"/> <span style="vertical-align: middle;">As Daniel Bell said: <br> > Technology, like art, is a soaring exercise of the human imagination.</span>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlybm5iODB6d2NkamxwM2I5MHc3N2VybjQ0bXlheWVpM3drMjRsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fdt4RGJKIi1ZbIhPvn/giphy.gif" width="100" style="vertical-align: middle;"/> <span style="vertical-align: middle;">As Daniel Bell said: <br>  Technology, like art, is a soaring exercise of the human imagination.</span>
 
 
 <div align="center">
