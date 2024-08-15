@@ -37,9 +37,33 @@
   </a>
 </p>
 
+<h3 align="center">
+  Frameworks & Libraries
+</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,mysql,octave,r,vscode,visualstudio,windows,html,css,git,azure,blender,bootstrap,js,jquery,netlify,nodejs,npm,react,unity,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,nodejs,react,&perline=6" />
+  </a>
+</p>
+
+<h3 align="center">
+  Tools & Platforms
+</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,azure,netlify,npmunity,blender,&perline=6" />
+  </a>
+</p>
+
+<h3 align="center">
+  Operating System
+</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,&perline=6" />
   </a>
 </p>
 
