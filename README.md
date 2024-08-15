@@ -28,8 +28,14 @@
 <br>
 
 <h3 align="center">
-  Languages - Frameworks - Tools
+  Languages
 </h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,js,r,octave,&perline=6" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
