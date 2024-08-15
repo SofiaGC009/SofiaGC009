@@ -7,7 +7,7 @@
   </h1>
 
   <p>
-    I'm a 24-year-old in my final semester of Computational Systems Engineering. I love diving into new technologies, taking courses, and exploring innovative ideas to level up my skills. Always excited to learn and tackle new challenges!.
+    I'm a 24-year-old student in my final semester of Computational Systems Engineering. I love diving into new technologies, taking courses, and exploring innovative ideas to level up my skills. Always excited to learn and tackle new challenges!
   </p>
 
 <br>
