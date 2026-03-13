@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-🔭 I’m currently working on **a small game**
+🔭 I’m currently working on a small game
   
 🌱 I’m currently learning **Unity, C#, C++**
 </div>
