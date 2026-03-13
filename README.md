@@ -7,15 +7,15 @@
   </h1>
 
   <p>
-    I'm a 25-year-old student in my final semester of Computational Systems Engineering. I love diving into new technologies, taking courses, and exploring innovative ideas to level up my skills. Always excited to learn and tackle new challenges!
+    I'm a 25-year-old Computational Systems Engineer. I love diving into new technologies, taking courses, and exploring innovative ideas to level up my skills. Always excited to learn and tackle new challenges!
   </p>
 
 <br>
 
 <div align="center">
-🔭 I’m currently working on **A web app**
+🔭 I’m currently working on **a small game**
   
-🌱 I’m currently learning **Python with Tensorflow**
+🌱 I’m currently learning **Unity, C#, C++**
 </div>
 
 <br>
